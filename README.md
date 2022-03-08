@@ -1,5 +1,5 @@
-# DUOC UC - INGENIERÍA EN INFORMÁTICA
-## Matemática Aplicada MAT2120
+MAT2120
+# Matemática Aplicada
 
 * [sucesiones](sucesiones/README.md)
 * [matrices](matrices/README.md)
