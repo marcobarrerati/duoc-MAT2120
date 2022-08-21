@@ -20,5 +20,5 @@ Cómo n puede ser cualquier número natural, eso quiere decir que una sucesión 
 El nombre de la sucesión es una letra que usamos para identificarla, mientras que el subíndice es una variable que etiqueta los elementos de una sucesión, indicando el lugar que ocupan.
 
 ## Tipos de sucesión
-* [Suceciones Aritméticas](aritmeticas/README.md)
-* [Suceciones Geométricas](geometricas/README.md)
+* [Sucesión Aritmética](aritmeticas/README.md)
+* [Sucesión Geométrica](geometricas/README.md)
